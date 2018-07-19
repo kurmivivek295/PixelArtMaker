@@ -38,4 +38,7 @@ body {
   input[type="number"] {
     width: 6em;
   }
-  
+  #colorPicker {
+    width: 100px;
+    height: 35px;
+  }  
